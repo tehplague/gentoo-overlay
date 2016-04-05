@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>teh_plague</name>
+    <description>teh_plague's profile and packages</description>
+    <homepage>https://github.com/tehplague/gentoo-overlay</homepage>
+    <owner>
+      <email>mail@christian-spoo.info</email>
+    </owner>
+    <source type="git">https://github.com/tehplague/gentoo-overlay.git</source>
+  </repo>
+</repositories>
